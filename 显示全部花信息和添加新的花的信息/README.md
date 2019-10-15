@@ -1,0 +1,1 @@
+### 手写一个jsp+servlet+jdbc的页面，采用mvc模式，使用jsp中的EI和JSTL,有一定的耦合度，适合新人练手
