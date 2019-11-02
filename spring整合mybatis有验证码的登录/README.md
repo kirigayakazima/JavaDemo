@@ -1,0 +1,1 @@
+### 此demo使用spring整合mybatis，加上Graphics2D画上验证码，实现的简单的验证登录。依赖已经全部放入文件夹中
